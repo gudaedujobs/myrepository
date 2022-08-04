@@ -19,7 +19,7 @@
 <dependency>
     <groupId>org.bitbucket.abdysamat</groupId>
     <artifactId>springcore</artifactId>
-    <version>1.2.3-RELEASE</version>
+    <version>1.2.3-SNAPSHOT</version>
 </dependency>
 
 <dependency>
